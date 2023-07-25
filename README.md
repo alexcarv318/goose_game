@@ -1,2 +1,2 @@
 # goose_game
- A game about a Ukrainian goose that dodges f***** russian rockets
+ Just a basic game wrotten in Python's pygame library to train my python programming skills
